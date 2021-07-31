@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Neuer Ordner\\Neuer Ordner\\NewWorldDb\\New_World\\New_World\\New_World.csproj": {}
+    "C:\\Users\\Simon\\Documents\\Git_New World\\New_World\\New_World\\New_World.csproj": {}
   },
   "projects": {
-    "D:\\Neuer Ordner\\Neuer Ordner\\NewWorldDb\\New_World\\New_World\\New_World.csproj": {
+    "C:\\Users\\Simon\\Documents\\Git_New World\\New_World\\New_World\\New_World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Neuer Ordner\\Neuer Ordner\\NewWorldDb\\New_World\\New_World\\New_World.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Documents\\Git_New World\\New_World\\New_World\\New_World.csproj",
         "projectName": "New_World",
-        "projectPath": "D:\\Neuer Ordner\\Neuer Ordner\\NewWorldDb\\New_World\\New_World\\New_World.csproj",
-        "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "D:\\Neuer Ordner\\Neuer Ordner\\NewWorldDb\\New_World\\New_World\\obj\\",
+        "projectPath": "C:\\Users\\Simon\\Documents\\Git_New World\\New_World\\New_World\\New_World.csproj",
+        "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Simon\\Documents\\Git_New World\\New_World\\New_World\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
