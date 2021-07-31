@@ -11,8 +11,8 @@ namespace New_World.db
         
         public static void Connect()
         {
-            const string constring = "server=85.214.96.35; user id=Simon; pwd=AlexandeR123123..; database=New_World_DB; allowuservariables=True; SslMode=none";
-
+            const string constring = "; database=New_World_DB";
+            //; allowuservariables=True; SslMode=none
             _con = new MySqlConnection(constring);
 
             try
