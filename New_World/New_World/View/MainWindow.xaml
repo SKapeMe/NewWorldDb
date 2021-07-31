@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:New_World"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid DataContext="{StaticResource mvmodel}">
+        <TextBox HorizontalAlignment="Left" Margin="176,109,0,0" Text="{Binding tbText}" TextWrapping="Wrap" VerticalAlignment="Top" Width="242" Height="44"/>
 
     </Grid>
 </Window>

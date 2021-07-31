@@ -20,9 +20,18 @@ namespace New_World
     /// </summary>
     public partial class MainWindow : Window
     {
+        MainViewModel mvmodel = null;
         public MainWindow()
         {
             InitializeComponent();
+
+            mvmodel = (MainViewModel)FindResource("mvmodel");
+
+            mvmodel.Initialisierung();
+        }
+
+        private void WindowLoaded(object sender, RoutedEventArgs e)
+        {
         }
     }
 }

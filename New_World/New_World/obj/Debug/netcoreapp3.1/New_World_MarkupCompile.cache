@@ -4,17 +4,23 @@
 winexe
 C#
 .cs
-D:\Neuer Ordner\Neuer Ordner\NewWorldDb\New_World\New_World\obj\Debug\netcoreapp3.1\
+C:\Users\Simon\Documents\Git_New World\New_World\New_World\obj\Debug\netcoreapp3.1\
 New_World
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-D:\Neuer Ordner\Neuer Ordner\NewWorldDb\New_World\New_World\App.xaml
-11407045341
+C:\Users\Simon\Documents\Git_New World\New_World\New_World\App.xaml
+1-487866684
 
+<<<<<<< HEAD
 5-994626623
 2001927367422
 MainWindow.xaml;
+=======
+9-1604569163
+200-621510497
+View\MainWindow.xaml;
+>>>>>>> 1ba60591d4cc5a13cabd31b614cd731508377df9
 
-True
+False
 
