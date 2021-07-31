@@ -845,11 +845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Documents\\VS_Projekte\\New_World\\New_World\\New_World.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Documents\\Git_New World\\New_World\\New_World\\New_World.csproj",
       "projectName": "New_World",
-      "projectPath": "C:\\Users\\Simon\\Documents\\VS_Projekte\\New_World\\New_World\\New_World.csproj",
+      "projectPath": "C:\\Users\\Simon\\Documents\\Git_New World\\New_World\\New_World\\New_World.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Documents\\VS_Projekte\\New_World\\New_World\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Documents\\Git_New World\\New_World\\New_World\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
