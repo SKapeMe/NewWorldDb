@@ -6,5 +6,6 @@ namespace New_World
 {
     class Tradeskills
     {
+        
     }
 }
